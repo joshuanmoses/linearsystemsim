@@ -69,8 +69,6 @@
     <li>Console output showing the time series for each state variable.</li>
     <li>A Matplotlib figure showing the trajectories of all state variables over time.</li>
 </ul>
-<p>Example plot:</p>
-<img src="https://via.placeholder.com/700x400.png?text=Example+Trajectory+Plot" alt="Example Trajectory Plot">
 
 
 </body>
