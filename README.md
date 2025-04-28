@@ -72,10 +72,6 @@
 <p>Example plot:</p>
 <img src="https://via.placeholder.com/700x400.png?text=Example+Trajectory+Plot" alt="Example Trajectory Plot">
 
-<hr>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
